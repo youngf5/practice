@@ -1,0 +1,65 @@
+﻿生成启动时间为 2019/8/4 14:25:51。
+     1>项目“D:\study\code\leetcode\leetcode\leetcode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\study\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt 922B.cpp
+         922B.cpp
+     1>d:\study\code\leetcode\leetcode\922b.cpp(14): warning C4018: “>=”: 有符号/无符号不匹配
+     1>d:\study\code\leetcode\leetcode\922b.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\code\leetcode\leetcode\922b.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\study\code\leetcode\leetcode\922b.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\study\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\code\leetcode\Debug\leetcode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\study\code\leetcode\Debug\leetcode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\code\leetcode\Debug\leetcode.lib" /MACHINE:X86 "Debug\1021-1.obj"
+         Debug\1021.obj
+         Debug\1021B.obj
+         Debug\1051AB.obj
+         "Debug\1108-1.obj"
+         Debug\1108.obj
+         Debug\171B.obj
+         Debug\349A.obj
+         Debug\349B.obj
+         Debug\476B.obj
+         Debug\500.obj
+         Debug\509A.obj
+         Debug\509B.obj
+         Debug\557B.obj
+         Debug\561A.obj
+         Debug\561B.obj
+         Debug\577A.obj
+         Debug\577A2.obj
+         Debug\657A.obj
+         Debug\657B.obj
+         Debug\461B.obj
+         Debug\709.obj
+         Debug\728B.obj
+         Debug\804A.obj
+         Debug\804B.obj
+         Debug\832A.obj
+         Debug\832B.obj
+         Debug\+852A.obj
+         Debug\852B.obj
+         Debug\867A.obj
+         Debug\867B.obj
+         Debug\905A.obj
+         Debug\905B.obj
+         Debug\922B.obj
+         Debug\929A.obj
+         Debug\929B.obj
+         Debug\933a.obj
+         Debug\942A.obj
+         "Debug\944-1B.obj"
+         Debug\944B.obj
+         Debug\961A.obj
+         Debug\961B.obj
+         Debug\977A.obj
+         Debug\977B.obj
+         Debug\999A.obj
+         Debug\999B.obj
+         Debug\quicksort.obj
+         Debug\xx.obj
+         "Debug\源.obj"
+         leetcode.vcxproj -> D:\study\code\leetcode\Debug\leetcode.exe
+     1>已完成生成项目“D:\study\code\leetcode\leetcode\leetcode.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.84
